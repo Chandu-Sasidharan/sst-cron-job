@@ -1,0 +1,12 @@
+{
+  "name": "@sst-cron/functions",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "sst": "*"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.147",
+    "@types/uuid": "^10.0.0"
+  }
+}
